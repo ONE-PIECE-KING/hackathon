@@ -1,0 +1,17 @@
+{
+    "actionGroup": "search",
+    "apiPath": "/search",
+    "httpMethod": "POST",
+    "requestBody": {
+        "content": {
+            "application/json": {
+                "properties": [
+                    {
+                        "name": "query",
+                        "value": "台灣AI發展"
+                    }
+                ]
+            }
+        }
+    }
+}
